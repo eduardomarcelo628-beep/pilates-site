@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./imagens/pilatesbanner.png" alt="Banner do Pilates Club">
+</p>
+
 # 🧘 Pilates Club
 
 > Landing page institucional desenvolvida para um Studio de Pilates, com foco em uma experiência visual moderna, elegante e intuitiva.
