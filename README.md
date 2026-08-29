@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imagens/pilatesbanner.png" alt="Banner do Pilates Club">
+  <img src="./images/pilatesbanner.png" alt="Banner do Pilates Club">
 </p>
 
 # 🧘 Pilates Club
