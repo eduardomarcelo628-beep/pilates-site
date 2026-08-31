@@ -110,9 +110,7 @@ A responsividade faz parte da proposta do projeto para que as informações e el
 
 ## 🌐 Acesse o projeto
 
-🔗 **GitHub Pages:**
-Em breve.
-
+🔗 **GitHub Pages: https://eduardomarcelo628-beep.github.io/pilates-site/#**
 ---
 
 ## 📚 O que eu aprendi
