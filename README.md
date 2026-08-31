@@ -104,7 +104,7 @@ A responsividade faz parte da proposta do projeto para que as informações e el
 
 ## 📸 Preview
 
-![Preview do Pilates Club](./imagens/demonstracao.png)
+![Preview do Pilates Club](./images/demonstracao.png)
 
 ---
 
